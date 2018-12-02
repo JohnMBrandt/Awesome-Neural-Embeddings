@@ -2,11 +2,7 @@
 
 A curated list of information and tutorials about word and sentence embeddings
 
-## Table of Contents
-
-
 ## Overview / General
-
 
 [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) - Thomas Wolf
 
@@ -33,6 +29,8 @@ Explains the inability of GloVe and Word2vec to model polysemy (where a single w
 Christ McCormick's three-part tutorial for word2vec is the best way to get started learning about word embeddings. The intuition for the skip gram model is explained with diagrams, and part II and III of the tutorial cover negative sampling, subsampling, and n-gram bundling. 
 
 [GloVe tutorial](http://mlexplained.com/2018/04/29/paper-dissected-glove-global-vectors-for-word-representation-explained/)
+
+This paper disection explains the math behind GloVe. This is very important to understand because GloVe is cast as a weighted-least squares objective. The blog discusses how gloVe compares with Word2Vec in terms of training time and accuracy.
 
 [ElMo embedding tutorial](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - Allen AI
 
