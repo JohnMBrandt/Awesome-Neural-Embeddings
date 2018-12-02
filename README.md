@@ -22,7 +22,7 @@ Explains the inability of GloVe and Word2vec to model polysemy (where a single w
 
 [History of embeddings](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) - Edward Ma
 
-Covers a history of word embeddings, how to apply off-the-shelf embeddings, and how to visualize the results.
+Covers a history of word embeddings, how to apply off-the-shelf embeddings, and how to visualize the results. In contrast to the other overview articles, this blog post covers history going back to 2001.
 
 ## Word Embeddings
 
