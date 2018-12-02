@@ -36,9 +36,15 @@ Christ McCormick's three-part tutorial for word2vec is the best way to get start
 
 [ElMo embedding tutorial](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - Allen AI
 
+Tutorial for implementing pre-trained ELMo embeddings from the algorithm's authors. Shows how to use it with Tensorflow Hub as well as PyTorch. Discusses hyperparameter settings and demonstrates how to reproduce the code from the original paper.
+
 [MUSE Multilingual Embeddings](https://code.fb.com/ml-applications/under-the-hood-multilingual-embeddings/) - Facebook
 
 MUSE is a multilingual approach to word embeddings developed by Facebook research. This post is very interesting in that it shows how the architecture is used live on Facebook's site, and also discusses what is being researched as MUSE's replacement.
+
+[FastText](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3) - Nishan Subedi
+
+A quick introduction to the math and theory behind FastText, as well as thoughts on best practices for training and structuring data.
 
 ## Sentence Embeddings
 
@@ -47,6 +53,8 @@ MUSE is a multilingual approach to word embeddings developed by Facebook researc
 Quick GenSim implementation of sent2vec, as well as information about its history and a fast-paced overview of how it works. 
 
 [Infersent](https://yashuseth.blog/2018/08/06/infersent-supervised-learning-of-sentence-embeddings/) - Seth Yashu
+
+In addition to explaining the infersent algorithm, this blog post is a good starting point for the reader who may be unfamiliar with LSTM, GRU, pooling, and attention. This blog post does an exceptional job of explaining how individual weights are calculated and why they are important for making the sentence embeddings useful.
 
 [Skip thoughts](https://medium.com/@sanyamagarwal/my-thoughts-on-skip-thoughts-a3e773605efa) - Sanyam Agarwal
 
