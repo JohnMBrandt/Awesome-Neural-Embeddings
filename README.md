@@ -68,11 +68,24 @@ A very well-explained introduction to Doc2vec, the sentence and document level i
 
 [Distributed Rperesentations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
 
+[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+
 [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 
 [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 
 [An Efficient Framework for Learning Sentence Representations](https://arxiv.org/pdf/1803.02893.pdf)
+
+[Deep Contextualized Word Representation](https://arxiv.org/abs/1802.05365)
+
+[Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
+
+[Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf)
+
+[Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+
+[Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/pdf/1705.02364.pdf)
+
 
 
  
