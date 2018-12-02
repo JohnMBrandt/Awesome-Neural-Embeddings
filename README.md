@@ -14,6 +14,8 @@ Gentle introduction to FastText, ELMo embeddings, Universal Sentence Encoder, Sk
 
 [When to use pretrained embeddings](https://machinelearningmastery.com/develop-word-embeddings-python-gensim/) - Jason Browniee
 
+This rather long tutorial covers GloVe and Word2Vec implementation in Python with special attention to the variation between using a pre-trained embedding matrix and training one on a domain-specific corpus. This is a trade-off that is frequently assessed when developing downstream applications.
+
 [Word embedding trends](http://ruder.io/word-embeddings-2017/) - Sebastian Ruder
 
 [Polysemy in Word Embeddings](https://medium.com/@jegasingamjeyanthasingam/word-embedding-to-polysemy-embedding-17274ab98418) - Jegasingam Jeyanthasingam
@@ -24,11 +26,15 @@ Gentle introduction to FastText, ELMo embeddings, Universal Sentence Encoder, Sk
 
 [Word2Vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) - Chris McCormick
 
+Christ McCormick's three-part tutorial for word2vec is the best way to get started learning about word embeddings. The intuition for the skip gram model is explained with diagrams, and part II and III of the tutorial cover negative sampling, subsampling, and n-gram bundling. 
+
 [GloVe tutorial](http://mlexplained.com/2018/04/29/paper-dissected-glove-global-vectors-for-word-representation-explained/)
 
 [ElMo embedding tutorial](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - Allen AI
 
 [MUSE Multilingual Embeddings](https://code.fb.com/ml-applications/under-the-hood-multilingual-embeddings/) - Facebook
+
+MUSE is a multilingual approach to word embeddings developed by Facebook research. This post is very interesting in that it shows how the architecture is used live on Facebook's site, and also discusses what is being researched as MUSE's replacement.
 
 ## Sentence Embeddings
 
