@@ -18,7 +18,11 @@ This rather long tutorial covers GloVe and Word2Vec implementation in Python wit
 
 [Word embedding trends](http://ruder.io/word-embeddings-2017/) - Sebastian Ruder
 
+An incredibly well-researched discussion on the future trends of word embeddings with almost 60 references. This post discusses phrase-level embeddings, model bias, the temporal dimension of word meaning, domain-specific embeddings, transfer learning, and context-specific embeddings.
+
 [Polysemy in Word Embeddings](https://medium.com/@jegasingamjeyanthasingam/word-embedding-to-polysemy-embedding-17274ab98418) - Jegasingam Jeyanthasingam
+
+Explains the inability of GloVe and Word2vec to model polysemy (where a single word can take on multiple meanings). As the major drawback to word embeddings, developing a strong understanding of polysemy and how to address the issues it poses is tantamount.
 
 [History of embeddings](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) - Edward Ma
 
@@ -49,4 +53,6 @@ Quick GenSim implementation of sent2vec, as well as information about its histor
 Tensorflow implementation of skip thougths algorithm and diagramatic and conceptual explanation of the encoder-decoder model. This blog post covers the advantages and disadvantages of the algorithm in detail.
 
 [Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e) - Gidi Shperber
+
+A very well-explained introduction to Doc2vec, the sentence and document level implementation of word2vec. The blog post uses the original diagrams from the paper, and includes a quick code demo using gensim.
  
