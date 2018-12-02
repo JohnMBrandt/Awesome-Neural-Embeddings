@@ -63,4 +63,16 @@ Tensorflow implementation of skip thougths algorithm and diagramatic and concept
 [Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e) - Gidi Shperber
 
 A very well-explained introduction to Doc2vec, the sentence and document level implementation of word2vec. The blog post uses the original diagrams from the paper, and includes a quick code demo using gensim.
+
+## Papers
+
+[Distributed Rperesentations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+
+[Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+
+[Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
+
+[An Efficient Framework for Learning Sentence Representations](https://arxiv.org/pdf/1803.02893.pdf)
+
+
  
